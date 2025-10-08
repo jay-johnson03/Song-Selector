@@ -8,7 +8,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background-image: url("/media/white_background.jpg");
+    background-color: #333;
 }
 
 .nav {
